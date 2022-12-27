@@ -1,0 +1,18 @@
+
+.inputLabel{
+    display: block;
+    color: #232323;
+}
+
+.main_box{
+    background-color: rgb(244, 244, 244);
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 10px #0002;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+input[type=text]{
+    width: 500px;
+}
